@@ -1,0 +1,4 @@
+C:\Users\ДОМ\Documents\GitHub\Room-sDisplacement\RoomConsole\RoomConsole\bin\Debug\RoomConsole.exe
+C:\Users\ДОМ\Documents\GitHub\Room-sDisplacement\RoomConsole\RoomConsole\bin\Debug\RoomConsole.pdb
+C:\Users\ДОМ\Documents\GitHub\Room-sDisplacement\RoomConsole\RoomConsole\obj\x86\Debug\RoomConsole.exe
+C:\Users\ДОМ\Documents\GitHub\Room-sDisplacement\RoomConsole\RoomConsole\obj\x86\Debug\RoomConsole.pdb
